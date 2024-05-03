@@ -5,7 +5,7 @@ import numpy as np
 import os
 import dotenv
 
-dotenv.load_dotenv() #loaded from an env file because i am not an idiot (mostly)
+dotenv.load_dotenv() #loaded from an env file instead of showing it on github
 
 async def calc(input1,input2,input3,input4,input5):
     
